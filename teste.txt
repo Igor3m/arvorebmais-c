@@ -1,0 +1,2 @@
+i
+001 Bulbasaur GRASS/POISON 318 45 49 49 65 65 45
